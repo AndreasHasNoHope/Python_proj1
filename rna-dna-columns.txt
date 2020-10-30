@@ -1,0 +1,1 @@
+-e 'column1 \t column2 \n RNA \t DNA' 
