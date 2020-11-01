@@ -1,0 +1,5 @@
+      1 ZSCAN22-lung
+      2 PMEPA1-lung
+      5 HSPA6-lung
+      5 STX18-lung
+     10 GOLGA3-lung
